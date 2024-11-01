@@ -39,13 +39,13 @@ Cyber Security Analyst specializing in **penetration testing** and **security ar
 
 ## 🚀 Featured Projects
 
-### 🔐 [Cybersecurity Framework for Cloud Apps](https://github.com/Mrakib77/cybersecurity-framework)
+### 🔐 [Cybersecurity Framework for Cloud Apps](https://github.com/Rakib007/cybersecurity-framework)
 A robust security framework designed to protect cloud applications and prevent unauthorized access.
 
-### 🕵️‍♂️ [Penetration Testing Toolkit](https://github.com/Mrakib77/penetration-toolkit)
+### 🕵️‍♂️ [Penetration Testing Toolkit](https://github.com/Rakib007/penetration-toolkit)
 Collection of scripts and tools for efficient penetration testing, contributing to a significant reduction in client vulnerabilities.
 
-### 📈 [Security Incident Analyzer](https://github.com/Mrakib77/security-analyzer)
+### 📈 [Security Incident Analyzer](https://github.com/Rakib007/security-analyzer)
 Analyzes incident patterns and provides a streamlined dashboard for faster incident response and prevention.
 
 ---
@@ -53,8 +53,8 @@ Analyzes incident patterns and provides a streamlined dashboard for faster incid
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mrakib77&show_icons=true&theme=radical" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrakib77&layout=compact&theme=radical" alt="Top Languages" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakib007&show_icons=true&theme=radical" alt="GitHub Stats" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib007&layout=compact&theme=radical" alt="Top Languages" height="150">
 </div>
 
 ---
@@ -72,7 +72,7 @@ Analyzes incident patterns and provides a streamlined dashboard for faster incid
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-rakibul-islam007)
-[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mrakib77)
+[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rakib007)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdrakibislam7018@gmail.com)
 
 ---
@@ -83,8 +83,8 @@ Did you know? Cybersecurity incidents are increasing every year, making cybersec
 
 ---
 
-## 🔥 Snake Game
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mrakib77/Mrakib77/output/snake.svg" alt="Snake Game" />
+  <img src="https://raw.githubusercontent.com/Rakib007/Rakib007/output/snake.svg" alt="Snake Game" />
 </div>
