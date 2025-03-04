@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://github.com/rak9b" target="_blank">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F7B93E&center=true&vCenter=true&width=600&lines=Software+Engineer+in+Test;Certified+Ethical+Hacker;Penetration+Tester;Security+Engineer;Bug+Bounty+Hunter;Full-Stack+Web+Developer" 
+      src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F7B93E&center=true&vCenter=true&width=600&lines=Software+Engineer+in+Test;Full-Stack+Web+Developer;Penetration+Tester;Security+Engineer;Bug+Bounty+Hunter;Certified+Ethical+Hacker;" 
       alt="Typing Animation Banner"
     />
   </a>
