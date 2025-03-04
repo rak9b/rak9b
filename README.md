@@ -64,7 +64,7 @@ cybersecurity, I managed an online gadget business, honing my client relations a
 
 | **Languages** | **Frontend** | **Backend** | **Database** |
 |--------------|-------------|------------|------------|
-| <img src="https://skillicons.dev/icons?i=python,javascript,c,java,bash,TypeScript,powershell" alt="languages" /> | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" alt="frontend" /> | <img src="https://skillicons.dev/icons?i=django,docker" alt="backend" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="database" /> |
+| <img src="https://skillicons.dev/icons?i=python,javascript,c,java,bash,powershell" alt="languages" /> | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" alt="frontend" /> | <img src="https://skillicons.dev/icons?i=django,docker" alt="backend" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="database" /> |
 
 
 ## 🔹 Tools I Use
