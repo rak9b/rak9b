@@ -327,15 +327,7 @@ Analyzes incident patterns and provides a streamlined dashboard for faster incid
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-<h2 align="center">🚀 GitHub Stats & Contributions</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib007007&theme=radical&layout=compact&langs_count=8" alt="Top Languages" />
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rakib007007&theme=github_dark" height="180em" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rakib007007&theme=github_dark&utcOffset=6" height="180em" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rakib007007&theme=github_dark" height="180em" />
-</div>
 
 <!-- Stylish Divider -->
 <div align="center">
@@ -360,39 +352,7 @@ Analyzes incident patterns and provides a streamlined dashboard for faster incid
 </p>
 
 <!-- Stylish Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
 
-<!-- Contribution Snake Animation -->
-<h3 align="center">🐍 Contribution Snake</h3>
-<p align="center">
-  <img src="https://github.com/Rakib007007/Rakib007007/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-</p>
-
-<!-- Stylish Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<!-- GitHub Stats (Overall Performance) -->
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakib007007&show_icons=true&theme=radical&count_private=true&hide_border=true&custom_title=📈%20My%20GitHub%20Stats%20-%20265%20Active%20Days" alt="GitHub Stats" />
-</p>
-
-
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
-</div>
-
-### Recent GitHub Activity
-
-- **PushEvent** in repository [rak9b/some-repo](https://github.com/rak9b/some-repo) on 2025-03-03T12:34:56Z
-- **PullRequestEvent** in repository [rak9b/another-repo](https://github.com/rak9b/another-repo) on 2025-03-02T11:23:45Z
-...
  
 <!-- Stylish Divider -->
 <div align="center">
