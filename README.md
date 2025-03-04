@@ -342,24 +342,43 @@ Analyzes incident patterns and provides a streamlined dashboard for faster incid
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<h2 align="center">⚡ GitHub Activity</h2>
+<h2 align="center">⚡ GitHub Activity & Contributions</h2>
 
-<!-- Activity Graph -->
+<!-- GitHub Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakib007007&theme=github" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakib007007&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
-<!-- GitHub Profile Stats -->
+<!-- Stylish Divider -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rakib007007&theme=github_dark" height="180em" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rakib007007&theme=github_dark&utcOffset=6" height="180em" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rakib007007&theme=github_dark" height="180em" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<!-- GitHub Contribution Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakib007007&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+<!-- Stylish Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 <!-- Contribution Snake -->
-<h2 align="center">🐍 Contribution Snake</h2>
+<h3 align="center">🐍 Contribution Snake</h3>
 <p align="center">
   <img src="https://github.com/Rakib007007/Rakib007007/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</p>
+
+<!-- Stylish Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<!-- GitHub Stats -->
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakib007007&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
 </p>
 
 
