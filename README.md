@@ -294,10 +294,10 @@ Analyzes incident patterns and provides a streamlined dashboard for faster incid
 <p align="center">If you find my contributions valuable and want to support my journey in cybersecurity, consider buying me a coffee! Your support keeps me motivated to explore, learn, and share more. 🚀</p>
 
 <p align="center">
-  <a href="https://buymeacoffee.com/Rakib007007">
+  <a href="https://buymeacoffee.com/rak9b">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
   </a>  
-  <a href="https://ko-fi.com/Rakib007007">
+  <a href="https://ko-fi.com/rak9b">
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi">
   </a>
 </p>
@@ -310,7 +310,7 @@ Analyzes incident patterns and provides a streamlined dashboard for faster incid
   <h1>👀 Visitor Count</h1>
   
   <p>
-    <img src="https://profile-counter.glitch.me/Rakib007007/count.svg" alt="Visitor Count" />
+    <img src="https://profile-counter.glitch.me/rak9b/count.svg" alt="Visitor Count" />
   </p>
 
   <p>
