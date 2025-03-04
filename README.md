@@ -17,11 +17,12 @@
 <p align="center">
   <a href="https://github.com/rak9b" target="_blank">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F7B93E&center=true&vCenter=true&width=700&lines=Passionate+About+Cybersecurity;Software+Engineer+in+Test;Certified+Ethical+Hacker;Penetration+Tester;Bug+Bounty+Hunter;Security+Analyst" 
+      src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F7B93E&center=true&vCenter=true&width=600&lines=Software+Engineer+in+Test;Certified+Ethical+Hacker;Penetration+Tester;Security+Engineer;Bug+Bounty+Hunter;Full-Stack+Web+Developer" 
       alt="Typing Animation Banner"
     />
   </a>
 </p>
+
 
 <p align="center">
     I am a passionate Software Engineer in Test with a strong focus on software quality through both automation and manual testing. As a Certified Ethical Hacker, I specialize in identifying and mitigating security vulnerabilities. Additionally, I am an active Bug Bounty Hunter, contributing to the security of various platforms by discovering and reporting vulnerabilities. My ultimate goal is to bridge the gap between software quality and cybersecurity, ensuring robust, secure, and resilient applications.
