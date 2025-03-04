@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://github.com/Umair505" target="_blank">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F7B93E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Passionate+About+Web+Development;Building+Awesome+Projects;Security+Engineer;Penetration+Tester;Security+Analyst" 
+      src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F7B93E&center=true&vCenter=true&width=600&lines=Passionate+About+Web+Development;Building+Awesome+Projects;Security+Engineer;Penetration+Tester;Security+Analyst" 
       alt="Typing Animation Banner"
     />
   </a>
