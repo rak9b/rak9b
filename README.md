@@ -388,7 +388,12 @@ Analyzes incident patterns and provides a streamlined dashboard for faster incid
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 </div>
 
+### Recent GitHub Activity
 
+- **PushEvent** in repository [rak9b/some-repo](https://github.com/rak9b/some-repo) on 2025-03-03T12:34:56Z
+- **PullRequestEvent** in repository [rak9b/another-repo](https://github.com/rak9b/another-repo) on 2025-03-02T11:23:45Z
+...
+ 
 <!-- Stylish Divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
