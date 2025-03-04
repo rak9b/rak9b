@@ -15,8 +15,11 @@
 
 <h2 align="center">🔥 About👨‍💻Me 🔥 </h2>
 <p align="center">
-  <a href="https://github.com/Umair505">
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F7B93E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Passionate+About+Web+Development;Building+Awesome+Projects" />
+  <a href="https://github.com/Umair505" target="_blank">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F7B93E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Passionate+About+Web+Development;Building+Awesome+Projects;Security+Engineer;Penetration+Tester;Security+Analyst" 
+      alt="Typing Animation Banner"
+    />
   </a>
 </p>
 
