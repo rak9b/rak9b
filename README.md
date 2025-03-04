@@ -1,6 +1,6 @@
 
 # <h1 align="center">Hi, I'm  Md.Rakibul Islam  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-<h3 align="center">Software Engineer in Test | Web Devoloper | Certified Ethical Hacker | Bug Bounty Hunter</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6F61&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+awesome+together!" alt="Typing SVG" />
@@ -14,6 +14,11 @@
 ---
 
 <h2 align="center">🔥 About👨‍💻Me 🔥 </h2>
+<p align="center">
+  <a href="https://github.com/Umair505">
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F7B93E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Passionate+About+Web+Development;Building+Awesome+Projects" />
+  </a>
+</p>
 
 <p align="center">
     I am a passionate Software Engineer in Test with a strong focus on software quality through both automation and manual testing. As a Certified Ethical Hacker, I specialize in identifying and mitigating security vulnerabilities. Additionally, I am an active Bug Bounty Hunter, contributing to the security of various platforms by discovering and reporting vulnerabilities. My ultimate goal is to bridge the gap between software quality and cybersecurity, ensuring robust, secure, and resilient applications.
