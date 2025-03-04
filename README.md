@@ -116,7 +116,7 @@ cybersecurity, I managed an online gadget business, honing my client relations a
   <img src="https://img.shields.io/badge/-Aircrack--ng-darkblue?style=for-the-badge&logo=aircrack-ng&logoColor=white" alt="Aircrack-ng" />
 </p>
 
-## Security Engineer
+##Security Engineer
 <p align="left">
   <img src="https://img.shields.io/badge/-OpenVAS-darkgreen?style=for-the-badge" alt="OpenVAS" />
   <img src="https://img.shields.io/badge/-Nikto-blue?style=for-the-badge&logo=nikto&logoColor=white" alt="Nikto" />
