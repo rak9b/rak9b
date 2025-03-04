@@ -272,7 +272,7 @@ Analyzes incident patterns and provides a streamlined dashboard for faster incid
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rak9b/rak9b/main/resources/img/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 <!-- Stylish Divider -->
