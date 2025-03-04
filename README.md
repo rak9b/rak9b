@@ -81,7 +81,7 @@ cybersecurity, I managed an online gadget business, honing my client relations a
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=Umair505" />
+    <img src="https://nirzak-streak-stats.vercel.app?user=rak9b" />
   </a>
 </p>
 
