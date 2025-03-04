@@ -272,23 +272,17 @@ Analyzes incident patterns and provides a streamlined dashboard for faster incid
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/rak9b/rak9b/main/resources/img/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/rak9b">My GitHub</a>
-</p>
+
 
 <!-- Stylish Divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 </div>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Rakib007007&icon=5&color=0" alt="Visit Count">
-  </a>
-</p>
+
 
 <h2 align="center">💰 Support My Work</h2>
 <p align="center">If you find my contributions valuable and want to support my journey in cybersecurity, consider buying me a coffee! Your support keeps me motivated to explore, learn, and share more. 🚀</p>
@@ -330,40 +324,12 @@ Analyzes incident patterns and provides a streamlined dashboard for faster incid
 
 
 <!-- Stylish Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+
 
 <h2 align="center">⚡ GitHub Activity & Contributions</h2>
 
-<!-- GitHub Activity Graph (Shows your active days clearly) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakib007007&theme=github-compact&hide_border=true&area=true&custom_title=🔥%20My%20Activity%20Graph%20-%20265%20Days%20Active" alt="GitHub Activity Graph" />
-</p>
 
 <!-- Stylish Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<!-- GitHub Streak Stats (Highlights continuous activity) -->
-<!-- Stylish Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<h2 align="center">⚡ GitHub Activity & Contributions</h2>
-
-<!-- GitHub Activity Graph (Shows your active days clearly) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakib007007&theme=github-compact&hide_border=true&area=true&custom_title=🔥%20My%20Activity%20Graph%20-%20265%20Days%20Active" alt="GitHub Activity Graph" />
-</p>
-
-<!-- Stylish Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
 <!-- GitHub Streak Stats (Highlights continuous activity) -->
 
 <div align="center">
