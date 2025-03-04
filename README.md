@@ -267,8 +267,6 @@ Analyzes incident patterns and provides a streamlined dashboard for faster incid
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<h2 align="center"> Thank You!</h2>
-
 <p align="center">
   Thanks for visiting my profile! If you found anything interesting, feel free to star my repositories or connect with me on social media.
 </p>
@@ -277,12 +275,20 @@ Analyzes incident patterns and provides a streamlined dashboard for faster incid
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/rak9b">My GitHub</a>
+</p>
+
 <!-- Stylish Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=Rakib007007&icon=5&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Rakib007007&icon=5&color=0" alt="Visit Count">
+  </a>
+</p>
 
 <h2 align="center">💰 Support My Work</h2>
 <p align="center">If you find my contributions valuable and want to support my journey in cybersecurity, consider buying me a coffee! Your support keeps me motivated to explore, learn, and share more. 🚀</p>
