@@ -62,32 +62,10 @@ cybersecurity, I managed an online gadget business, honing my client relations a
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## 🛠 Skills & Tools
 
-<table class="table-auto w-full">
-  <thead>
-    <tr>
-      <th class="px-4 py-2">Languages</th>
-      <th class="px-4 py-2">Frontend</th>
-      <th class="px-4 py-2">Backend</th>
-      <th class="px-4 py-2">Database</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td class="px-4 py-2">
-        <img src="https://skillicons.dev/icons?i=python,javascript,c,java,bash,powershell" alt="languages" class="w-16 h-16" />
-      </td>
-      <td class="px-4 py-2">
-        <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" alt="frontend" class="w-16 h-16" />
-      </td>
-      <td class="px-4 py-2">
-        <img src="https://skillicons.dev/icons?i=django,docker" alt="backend" class="w-16 h-16" />
-      </td>
-      <td class="px-4 py-2">
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="database" class="w-16 h-16" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+| **Languages** | **Frontend** | **Backend** | **Database** |
+|--------------|-------------|------------|------------|
+| <img src="https://skillicons.dev/icons?i=python,javascript,c,java,bash,powershell" alt="languages" /> | <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react" alt="frontend" /> | <img src="https://skillicons.dev/icons?i=django,nodejs,express,docker" alt="backend" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,firebase" alt="database" /> |
+
 
 
 
