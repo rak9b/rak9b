@@ -136,6 +136,7 @@ cybersecurity, I managed an online gadget business, honing my client relations a
   <img src="https://img.shields.io/badge/-Cortex_XSOAR-blue?style=for-the-badge&logo=demisto&logoColor=white" alt="Cortex XSOAR" />
   <img src="https://img.shields.io/badge/-ThreatConnect-darkblue?style=for-the-badge&logo=threatconnect&logoColor=white" alt="ThreatConnect" />
 </p>
+
 ## Security Testing
 <p align="left">
   <a href="https://portswigger.net/burp" target="_blank">
