@@ -336,6 +336,15 @@ Analyzes incident patterns and provides a streamlined dashboard for faster incid
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br> <br>
 
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=alaminislam3&theme=catppuccin_mocha&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=alaminislam3&icon=2&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <!-- Stylish Divider -->
