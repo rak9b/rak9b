@@ -113,3 +113,114 @@ git clone https://github.com/Rakib007007007/cybersecurity-framework.git
 cd cybersecurity-framework
 pip install -r requirements.txt
 python app.py
+🕵️‍♂️ Penetration Testing Toolkit
+Collection of scripts and tools for efficient penetration testing.
+
+Live Demo : Link
+Tech Stack : Bash, Python, Metasploit, Nmap
+Features : Port Scanner, Exploit Runner, Vulnerability Reporter
+Dependencies : nmap, msfconsole, requests
+How to Run Locally :
+bash
+
+
+1
+2
+3
+4
+git clone https://github.com/Rakib007007007/penetration-toolkit.git 
+cd penetration-toolkit
+chmod +x setup.sh && ./setup.sh
+./run.sh
+
+📈 Security Incident Analyzer
+Analyzes incident patterns for faster incident response.
+
+Live Demo : Link
+Tech Stack : React, Node.js, MongoDB
+Features : Dashboard, Alert System, Report Generator
+Dependencies : axios, chart.js, express
+How to Run Locally :
+bash
+
+
+1
+2
+3
+4
+git clone https://github.com/Rakib007007007/security-analyzer.git 
+cd security-analyzer
+npm install
+npm start
+
+🔐 Bug Bounty Achievements
+<p align="center">
+<img src=" https://img.shields.io/badge/HackerOne-000000?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne" />
+<img src=" https://img.shields.io/badge/Bugcrowd-000000?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bugcrowd" />
+<img src=" https://img.shields.io/badge/OpenBugBounty-000000?style=for-the-badge&logo=openbugbounty&logoColor=white" alt="OpenBugBounty" />
+</p>
+
+🏆 Recognized by HackerOne for critical vulnerabilities
+🐛 Contributed to Bugcrowd with high-severity reports
+🔍 Secured websites via OpenBugBounty
+📜 Certifications
+<p align="left">
+<img src=" https://img.shields.io/badge/Certified%20Ethical%20Hacker-FF6F61?style=for-the-badge&logo=ethicalhacking&logoColor=white" alt="CEH" />
+<img src=" https://img.shields.io/badge/Cybersecurity%20for%20Businesses-006699?style=for-the-badge&logo=cybersecurity&logoColor=white" alt="Cybersecurity" />
+<img src=" https://img.shields.io/badge/Certified%20Web%20App%20Pentester-0D3B66?style=for-the-badge" alt="Web Pentester" />
+<img src=" https://img.shields.io/badge/Competitive%20Pentesting-D32F2F?style=for-the-badge&logo=security&logoColor=white" alt="Pentesting" />
+<img src=" https://img.shields.io/badge/Certified%20Security%20Engineer-5C6BC0?style=for-the-badge&logo=security&logoColor=white" alt="Security Engineer" />
+</p>
+
+🌐 Connect With Me
+<p align="center">
+<a href=" https://twitter.com/fagun018 " target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href=" https://www.linkedin.com/in/md-rakibul-islam007/ " target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href=" https://t.me/mbfagun " target="_blank">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="mailto:fagun018@outlook.com" target="_blank">
+<img src=" https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+</a>
+</p>
+
+🎧 Now Playing
+<p align="center">
+<img src=" https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" alt="Spotify Now Playing" width="500"/>
+</p>
+
+😂 Random Dev Joke
+<p align="center">
+<img src=" https://readme-jokes.vercel.app/api?theme=dark" alt="Random Dev Joke" />
+</p>
+
+💸 Support My Work
+Your support keeps me motivated to explore and share more in cybersecurity 🚀
+
+<a href=" https://buymeacoffee.com/rak9b ">
+<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
+<a href=" https://ko-fi.com/rak9b ">
+<img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
+</a>
+
+👀 Visitor Count
+<div align="center">
+<h1>👀 Visitor Count</h1>
+<p><img src=" https://profile-counter.glitch.me/rak9b/count.svg " alt="Visitor Count" /></p>
+<p><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmpmMWpxZjdhZmU0eWU2eDVqaXRvdTd3dXNwdGpxNjNta3ZnMGgzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UzK9v6JaNsACc/giphy.gif " width="150px" /></p>
+<p><strong>Salam Bro! 🤗</strong></p>
+<p><em>Whoa, you made it this far! 🚀</em></p>
+<p><em>Why not leave a ⭐ on my repos? Keeps my code happy and coffee strong! ☕😆</em></p>
+</div>
+
+⚡ GitHub Activity
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rak9b&theme=react-dark&hide_border=true" alt="Activity Graph" width="90%"/>
+</div>
+
+⭐ Star my repositories if you find them helpful!
