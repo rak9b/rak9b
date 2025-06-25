@@ -79,7 +79,7 @@ cybersecurity, I managed an online gadget business, honing my client relations a
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-**## 🚀 Featured Projects**
+##Featured Projects
 
 ### 🧑‍🏫 [E-Tutor Booking — Client Side](https://github.com/Programming-Hero-Web-Course4/b11a11-client-side-rak9b)  
 🌐 **Live Website:** [tutor-booking-43ee8.web.app](https://tutor-booking-43ee8.web.app/)  
