@@ -1,6 +1,6 @@
 
 # <h1 align="center">Hi, I'm  Md.Rakibul Islam  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-.
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6F61&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+awesome+together!" alt="Typing SVG" />
@@ -79,7 +79,7 @@ cybersecurity, I managed an online gadget business, honing my client relations a
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-##Featured Projects
+## 🔹 Featured Projects
 
 ### 🧑‍🏫 [E-Tutor Booking — Client Side](https://github.com/Programming-Hero-Web-Course4/b11a11-client-side-rak9b)  
 🌐 **Live Website:** [tutor-booking-43ee8.web.app](https://tutor-booking-43ee8.web.app/)  
