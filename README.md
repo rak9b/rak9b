@@ -75,71 +75,21 @@ cybersecurity, I managed an online gadget business, honing my client relations a
 |-----------|
 | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,netlify" alt="tools" /> |
 
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## 🔹 Featured Projects
 
-### 🧑‍🏫 [E-Tutor Booking — Client Side](https://github.com/Programming-Hero-Web-Course4/b11a11-client-side-rak9b)  
-🌐 **Live Website:** [tutor-booking-43ee8.web.app](https://tutor-booking-43ee8.web.app/)  
-🧠 **Assignment:** Assignment-11 (Language Exchange Tutor Booking Platform)  
-📘 A responsive and feature-rich platform to find and book tutors across languages. Smooth UX, powerful filtering, Firebase auth, and JWT-based private routes.
-
-🔑 **Key Features:**
-- Find & Book Tutors 🔍📅  
-- Firebase Auth & JWT Protection 🔐  
-- Language-Based Filtering & Reviews 💬  
-- Add/Manage Tutorials & Bookings ✏️  
-- Modern UI with Lottie, Framer Motion, TailwindCSS 🌈  
-- Dark/Light Mode, Toasts, SweetAlerts ☀️🌙  
-
-🛠️ **Tech Stack:** React + Vite, Tailwind, Firebase, JWT, MongoDB, DaisyUI, Framer Motion, Lottie, SweetAlert2
-
----
-
-### 🍲 [Food Khazana – Recipe Book App](https://github.com/Programming-Hero-Web-Course4/b7a10-chef-recipe-hunter-client-side-rakib)  
-🌐 **Live Website:** [Food Khazana](https://food-khazana.web.app/)  
-📗 A sleek, interactive recipe-sharing platform. Add, like, and manage recipes with authentication, dynamic filters, and real-time UI feedback.
-
-🔑 **Key Features:**
-- Email/Google Auth 🔐  
-- Add, Like, and Manage Recipes 📝❤️  
-- View Top Recipes by Likes 🥇  
-- Cuisine-Based Filtering 🍛🌎  
-- Fully Responsive & Animated UI 🎨📱  
-- Dark/Light Mode, SweetAlerts, Lottie & Typewriter 🎬🌓  
-
-🛠️ **Tech Stack:** React, TailwindCSS, Firebase, MongoDB, Express.js, React Router, Lottie, SweetAlert2, Typewriter
-
----
-
-### 🔐 [Cybersecurity Framework for Cloud Apps](https://github.com/Rakib007007007/cybersecurity-framework)  
-🌐 **Live Demo:** [rakib007007007.github.io/cybersecurity-framework](https://rakib007007007.github.io/cybersecurity-framework)  
-🛡️ A robust framework to secure cloud-based apps from unauthorized access with modern authentication protocols and architecture.
-
----
-
-### 🕵️‍♂️ [Penetration Testing Toolkit](https://github.com/Rakib007007007/penetration-toolkit)  
-🌐 **Live Demo:** [rakib007007007.github.io/penetration-toolkit](https://rakib007007007.github.io/penetration-toolkit)  
-🧰 Scripts and utilities for efficient, automated penetration testing.
-
----
-
-### 📈 [Security Incident Analyzer](https://github.com/Rakib007007007/security-analyzer)  
-🌐 **Live Demo:** [rakib007007007.github.io/security-analyzer](https://rakib007007007.github.io/security-analyzer)  
-📊 Real-time dashboard for detecting and analyzing security anomalies.
-
----
-
-### 💼 [Digital Portfolio & Resume](https://github.com/Rakib007007007/cybersecurity-resume)  
-🌐 **Live Site:** [rakib007007007.github.io/cybersecurity-resume](https://rakib007007007.github.io/cybersecurity-resume)  
-🧑‍💻 Showcasing certifications, skills, and cybersecurity journey in a clean, responsive format.
-
----
-
+| Project | Description | Live/Demo Link | Key Features | Tech Stack |
+|---------|-------------|----------------|--------------|------------|
+| 🧑‍🏫 [E-Tutor Booking — Client Side](https://github.com/Programming-Hero-Web-Course4/b11a11-client-side-rak9b) | Responsive language tutor booking platform with smooth UX and JWT-based private routes. | 🌐 [Live Website](https://tutor-booking-43ee8.web.app/) | - Find & Book Tutors 🔍📅<br>- Firebase Auth & JWT Protection 🔐<br>- Language Filtering & Reviews 💬<br>- Add/Manage Tutorials & Bookings ✏️<br>- Modern UI: Lottie, Framer Motion, TailwindCSS 🌈<br>- Dark/Light Mode, Toasts, SweetAlerts ☀️🌙 | React + Vite, Tailwind, Firebase, JWT, MongoDB, DaisyUI, Framer Motion, Lottie, SweetAlert2 |
+| 🍲 [Food Khazana – Recipe Book App](https://github.com/Programming-Hero-Web-Course4/b7a10-chef-recipe-hunter-client-side-rakib) | Interactive recipe-sharing app with auth, filters, and real-time UI feedback. | 🌐 [Live Website](https://food-khazana.web.app/) | - Email/Google Auth 🔐<br>- Add, Like, Manage Recipes 📝❤️<br>- Top Recipes by Likes 🥇<br>- Cuisine-Based Filtering 🍛🌎<br>- Responsive & Animated UI 🎨📱<br>- Dark/Light Mode, SweetAlerts, Lottie & Typewriter 🎬🌓 | React, TailwindCSS, Firebase, MongoDB, Express.js, React Router, Lottie, SweetAlert2, Typewriter |
+| 🔐 [Cybersecurity Framework for Cloud Apps](https://github.com/Rakib007007007/cybersecurity-framework) | Robust framework to secure cloud apps with modern authentication protocols. | 🌐 [Live Demo](https://rakib007007007.github.io/cybersecurity-framework) | Secure cloud apps, authentication, and architecture | - |
+| 🕵️‍♂️ [Penetration Testing Toolkit](https://github.com/Rakib007007007/penetration-toolkit) | Automated penetration testing scripts and utilities. | 🌐 [Live Demo](https://rakib007007007.github.io/penetration-toolkit) | Efficient penetration testing tools | - |
+| 📈 [Security Incident Analyzer](https://github.com/Rakib007007007/security-analyzer) | Real-time dashboard to detect and analyze security anomalies. | 🌐 [Live Demo](https://rakib007007007.github.io/security-analyzer) | Security anomaly detection and analysis | - |
+| 💼 [Digital Portfolio & Resume](https://github.com/Rakib007007007/cybersecurity-resume) | Showcases certifications, skills, and journey in a clean, responsive format. | 🌐 [Live Site](https://rakib007007007.github.io/cybersecurity-resume) | Portfolio & Resume showcase | - |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
 
