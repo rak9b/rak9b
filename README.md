@@ -67,31 +67,6 @@ cybersecurity, I managed an online gadget business, honing my client relations a
 | <img src="https://skillicons.dev/icons?i=python,javascript,c,java,bash,powershell" alt="languages" /> | <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react" alt="frontend" /> | <img src="https://skillicons.dev/icons?i=django,nodejs,express,docker" alt="backend" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,firebase" alt="database" /> |
 
 
-## 🚀 Featured Projects
-
-### 🔐 [Cybersecurity Framework for Cloud Apps](https://github.com/Rakib007007007/cybersecurity-framework)  
-🌐 **Live Demo:** [rakib007007007.github.io/cybersecurity-framework](https://rakib007007007.github.io/cybersecurity-framework)  
-🛡️ A robust security framework to protect cloud-based applications. Built with modern security protocols to prevent unauthorized access.
-
----
-
-### 🕵️‍♂️ [Penetration Testing Toolkit](https://github.com/Rakib007007007/penetration-toolkit)  
-🌐 **Live Demo:** [rakib007007007.github.io/penetration-toolkit](https://rakib007007007.github.io/penetration-toolkit)  
-🧰 A curated toolkit with scripts for automating common penetration testing tasks. Speeds up assessments and boosts accuracy.
-
----
-
-### 📈 [Security Incident Analyzer](https://github.com/Rakib007007007/security-analyzer)  
-🌐 **Live Demo:** [rakib007007007.github.io/security-analyzer](https://rakib007007007.github.io/security-analyzer)  
-📊 An interactive dashboard for analyzing incident patterns and identifying security anomalies in real-time.
-
----
-
-### 💼 [Digital Portfolio & Resume](https://github.com/Rakib007007007/cybersecurity-resume)  
-🌐 **Live Site:** [rakib007007007.github.io/cybersecurity-resume](https://rakib007007007.github.io/cybersecurity-resume)  
-🧑‍💻 A professional portfolio showcasing my cybersecurity journey, certifications, and technical skills—fully responsive and clean design.
-
----
 
 
 ## 🔹 Tools I Use
@@ -120,6 +95,31 @@ cybersecurity, I managed an online gadget business, honing my client relations a
 
 
 <div align="left">
+## 🚀 Featured Projects
+
+### 🔐 [Cybersecurity Framework for Cloud Apps](https://github.com/Rakib007007007/cybersecurity-framework)  
+🌐 **Live Demo:** [rakib007007007.github.io/cybersecurity-framework](https://rakib007007007.github.io/cybersecurity-framework)  
+🛡️ A robust security framework to protect cloud-based applications. Built with modern security protocols to prevent unauthorized access.
+
+---
+
+### 🕵️‍♂️ [Penetration Testing Toolkit](https://github.com/Rakib007007007/penetration-toolkit)  
+🌐 **Live Demo:** [rakib007007007.github.io/penetration-toolkit](https://rakib007007007.github.io/penetration-toolkit)  
+🧰 A curated toolkit with scripts for automating common penetration testing tasks. Speeds up assessments and boosts accuracy.
+
+---
+
+### 📈 [Security Incident Analyzer](https://github.com/Rakib007007007/security-analyzer)  
+🌐 **Live Demo:** [rakib007007007.github.io/security-analyzer](https://rakib007007007.github.io/security-analyzer)  
+📊 An interactive dashboard for analyzing incident patterns and identifying security anomalies in real-time.
+
+---
+
+### 💼 [Digital Portfolio & Resume](https://github.com/Rakib007007007/cybersecurity-resume)  
+🌐 **Live Site:** [rakib007007007.github.io/cybersecurity-resume](https://rakib007007007.github.io/cybersecurity-resume)  
+🧑‍💻 A professional portfolio showcasing my cybersecurity journey, certifications, and technical skills—fully responsive and clean design.
+
+---
 
 ### ⭐ Security Tools & Badges
 
