@@ -1,4 +1,4 @@
-# Md. Rakibul Islam
+# Md. Rakibul Islam 👋
 
 ![Waving Hand](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
@@ -15,43 +15,68 @@
 
 ## About Me
 
-I am **Md. Rakibul Islam**, a dedicated **Full-Stack Developer** and **Software Engineer in Test** with expertise in **cybersecurity, penetration testing, and ethical hacking**. I combine strong programming skills with a security-first mindset to design and secure scalable web applications.
+I am **Md. Rakibul Islam**, a Full-Stack Developer and Software Engineer in Test with deep expertise in **cybersecurity**, **penetration testing**, and **ethical hacking**. I combine robust programming skills with a security-first mindset to build and safeguard modern web applications.
 
-- Certified Ethical Hacker (CEH) & Active Bug Bounty Hunter  
-- Experienced Penetration Tester & Security Engineer  
-- Proficient in Python, JavaScript, React, Django, Node.js, and more  
-- Passionate about threat analysis, malware research, and security frameworks  
-- Career goal: Become a leading cybersecurity analyst and full-stack expert by 2026  
+- 🛡️ **Certified Ethical Hacker (CEH)** & active Bug Bounty hunter  
+- 🕵️‍♂️ Experienced Penetration Tester & Security Engineer  
+- 🚀 Proficient in **Python**, **JavaScript**, **React**, **Django**, **Node.js** and more  
+- 🌱 Continuously learning advanced security frameworks and malware analysis  
+- 🎯 Goal: Become a leading cybersecurity analyst & full-stack expert by 2026  
 
 ---
 
-## Skills & Technologies
+## Skills & Tools
 
-| Languages               | Frontend                    | Backend                     | Databases & Tools                 |
-|------------------------|-----------------------------|-----------------------------|---------------------------------|
+| Languages                 | Frontend                          | Backend                      | Databases & Infra                |
+|---------------------------|-----------------------------------|------------------------------|---------------------------------|
 | Python, JavaScript, C, Java, Bash, PowerShell | React, HTML5, CSS3, Tailwind, Bootstrap | Django, Node.js, Express, Flask | MySQL, PostgreSQL, MongoDB, Firebase, SQLite |
-|                        |                             |                             | Git, GitHub, Docker, Postman, VSCode, Figma, Netlify |
+|                           |                                   |                              | Git, Docker, Postman, VSCode, Figma, Netlify |
 
 ---
 
-## Selected Projects
+## Featured Projects
 
-| Project                        | Tech Stack                 | Link                                                             | Description                                                |
-|-------------------------------|----------------------------|------------------------------------------------------------------|------------------------------------------------------------|
-| Cybersecurity Framework        | Python, Flask              | [GitHub](https://github.com/Rakib007007007/cybersecurity-framework) | Real-time cloud security monitoring and alerting system   |
-| Penetration Toolkit            | Bash, Python, Metasploit, Nmap | [GitHub](https://github.com/Rakib007007007/penetration-toolkit) | Suite of tools for penetration testing and vulnerability analysis |
-| Security Incident Analyzer     | React, Node.js, MongoDB    | [GitHub](https://github.com/Rakib007007007/security-analyzer)   | Security incident detection and analysis dashboard         |
-| Food Khazana - Recipe Book App | React, Firebase, Tailwind  | [GitHub](https://github.com/Rakib007007007/food-khazana)        | Intuitive recipe book with search, save, and sharing features |
-| E-Tutor Booking — Client Side  | React, Redux, REST API     | [GitHub](https://github.com/Rakib007007007/e-tutor-booking-client) | Online tutoring booking and management platform             |
+| Project                                   | Tech Stack                             | Live Demo / Repo                                                                             | Description                                                                      |
+|-------------------------------------------|----------------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| **Cybersecurity Framework for Cloud Apps**  | Python, Flask                          | 🔗 [Live](https://your-cloud-framework-demo.com) • [GitHub](https://github.com/Rakib007007007/cybersecurity-framework)  | Real-time monitoring and alerting framework to secure cloud applications.       |
+| **Penetration Testing Toolkit**             | Bash, Python, Metasploit, Nmap         | 🔗 [Live CLI](https://github.com/Rakib007007007/penetration-toolkit)                         | Collection of scripts for port scanning, exploit automation & vulnerability reporting. |
+| **Security Incident Analyzer**              | React, Node.js, MongoDB                | 🔗 [Live](https://your-security-analyzer-demo.com) • [GitHub](https://github.com/Rakib007007007/security-analyzer)         | Dashboard for detecting, analyzing and visualizing security incidents.           |
+| **Food Khazana – Recipe Book App**          | React, Firebase, Tailwind CSS          | 🔗 [Live](https://food-khazana.netlify.app/) • [GitHub](https://github.com/Rakib007007007/food-khazana)                     | User-friendly recipe app with search, save to wishlist, like and share features. |
+| **E-Tutor Booking – Client Side**           | React, Tailwind, Firebase, REST API    | 🔗 [Live](https://tutor-booking-43ee8.web.app/) • [GitHub](https://github.com/Programming-Hero-Web-Course4/b11a11-client-side-rak9b) | Platform to browse tutors, book sessions, add tutorials & submit reviews.        |
 
 ---
 
-## Running Projects Locally
+## How to Run Locally
 
-**Cybersecurity Framework**
+> Clone, install dependencies and start each project in its directory as shown:
 
 ```bash
+# Cybersecurity Framework
 git clone https://github.com/Rakib007007007/cybersecurity-framework.git
 cd cybersecurity-framework
 pip install -r requirements.txt
 python app.py
+
+# Penetration Toolkit
+git clone https://github.com/Rakib007007007/penetration-toolkit.git
+cd penetration-toolkit
+chmod +x setup.sh && ./setup.sh
+./run.sh
+
+# Security Incident Analyzer
+git clone https://github.com/Rakib007007007/security-analyzer.git
+cd security-analyzer
+npm install
+npm start
+
+# Food Khazana
+git clone https://github.com/Rakib007007007/food-khazana.git
+cd food-khazana
+npm install
+npm start
+
+# E-Tutor Booking (Client)
+git clone https://github.com/Programming-Hero-Web-Course4/b11a11-client-side-rak9b.git
+cd b11a11-client-side-rak9b
+npm install
+npm start
