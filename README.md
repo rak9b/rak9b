@@ -1,4 +1,4 @@
-# <h1 align="center">Hi, I'm Md. Rakibul Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+# <h1 align="center">Hi, I'm Md. Rakibul Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6F61&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+awesome+together!" alt="Typing SVG" />
@@ -12,32 +12,43 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F7B93E&center=true&vCenter=true&width=600&lines=Software+Engineer+in+Test;Full-Stack+Web+Developer;Penetration+Tester;Security+Engineer;Bug+Bounty+Hunter;Certified+Ethical+Hacker;" alt="Typing Animation" />
 </p>
 
-<p align="center">
+<p align="center" style="font-size: 18px;">
   I am a passionate <strong>Software Engineer in Test</strong> with a strong focus on software quality through both automation and manual testing. As a <strong>Certified Ethical Hacker</strong>, I specialize in identifying and mitigating security vulnerabilities. Additionally, I am an active <strong>Bug Bounty Hunter</strong>, contributing to the security of various platforms by discovering and reporting vulnerabilities.
 </p>
 
-### 🎯 2025-2026 Goals
-| Year | Goal |
-|------|------|
-| 🚀 2025 | Advance in cybersecurity, refine penetration testing skills, contribute to security research |
-| 🎯 2026 | Secure a role as Cybersecurity Analyst or Penetration Tester, specializing in offensive security |
-
-### 🌱 Learning & Collaboration
-- 💡 Exploring advanced security frameworks, exploit development, and malware analysis
-- 🤝 Open to collaborating on **AI-Driven Security Testing** & **open-source security** projects
-- 💬 Ask me about: Software Testing, Ethical Hacking, CTFs, Bug Bounties, Threat Intelligence, SOC Operations
-- ⚡ Fun Fact: **I once found a critical vulnerability in a Fortune 500 company's system!**
+<p align="center">
+  <strong>My ultimate goal:</strong> Bridge the gap between software quality and cybersecurity, ensuring robust, secure, and resilient applications.
+</p>
 
 ---
 
-## 🛠 Skills & Tools
+## 🎯 Career Goals
+
+| Timeline | Objective |
+|----------|-----------|
+| 🚀 **2025** | Advance in cybersecurity, refine penetration testing skills, contribute to security research |
+| 🎯 **2026** | Secure a role as Cybersecurity Analyst or Penetration Tester, specializing in offensive security & digital defense |
+
+---
+
+## 🌱 Learning & Collaboration
+
+- 💡 **Exploring:** Advanced security frameworks, exploit development, malware analysis
+- 🤝 **Open to:** AI-Driven Security Testing, open-source security projects, community contributions
+- 💬 **Ask me about:** Software Testing, Ethical Hacking, CTFs, Bug Bounties, Threat Intelligence, SOC Operations
+- ⚡ **Fun Fact:** I once found a critical vulnerability in a Fortune 500 company's system!
+- 🏪 **Background:** Before cybersecurity, I managed an online gadget business—honoring client relations & time management skills essential for security environments
+
+---
+
+## 🛠 Technical Skills
 
 | **Languages** | **Frontend** | **Backend** | **Database** |
 |--------------|-------------|------------|-------------|
 | <img src="https://skillicons.dev/icons?i=python,javascript,c,java,bash,powershell" alt="languages" /> | <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react" alt="frontend" /> | <img src="https://skillicons.dev/icons?i=django,nodejs,express,docker" alt="backend" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,firebase" alt="database" /> |
 
-| **Tools** |
-|-----------|
+| **Development Tools** |
+|----------------------|
 | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,netlify" alt="tools" /> |
 
 ---
@@ -60,14 +71,25 @@
   <img src="https://img.shields.io/badge/-Nmap-lightblue?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/-Burp_Suite-purple?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/-Wireshark-green?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Aircrack_ng-darkblue?style=for-the-badge&logo=aircrack-ng&logoColor=white" />
 </p>
 
 ### Security Engineer
 <p align="left">
   <img src="https://img.shields.io/badge/-OWASP_ZAP-yellow?style=for-the-badge&logo=owasp&logoColor=white" />
   <img src="https://img.shields.io/badge/-Shodan-lightblue?style=for-the-badge&logo=shodan&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nikto-blue?style=for-the-badge&logo=nikto&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+</p>
+
+### Security Testing
+<p align="left">
+  <img src="https://img.shields.io/badge/Burp%20Suite-%23000000?style=for-the-badge&logo=PortSwigger&logoColor=orange" />
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-%23F5792A?style=for-the-badge&logo=OWASP&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Map-E84142?style=for-the-badge&logo=GitHub&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hashcat-blue?style=for-the-badge&logo=hashcat&logoColor=white" />
+  <img src="https://img.shields.io/badge/John%20the%20Ripper-lightgreen?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 ---
@@ -76,28 +98,27 @@
 
 | Project | Description | Live Link | Tech Stack |
 |---------|-------------|-----------|------------|
-| 🧑‍🏫 [E-Tutor Booking](https://github.com/Programming-Hero-Web-Course4/b11a11-client-side-rak9b) | Language tutor booking platform with JWT auth | [Live](https://tutor-booking-43ee8.web.app/) | React, Tailwind, Firebase, MongoDB |
-| 🍲 [Food Khazana](https://github.com/Programming-Hero-Web-Course4/b7a10-chef-recipe-hunter-client-side-rakib) | Interactive recipe-sharing app | [Live](https://food-khazana.web.app/) | React, Firebase, MongoDB, Express |
-| 🔐 [Cybersecurity Framework](https://github.com/Rakib007007007/cybersecurity-framework) | Cloud app security framework | [Demo](https://rakib007007007.github.io/cybersecurity-framework) | Security Architecture |
-| 🕵️‍♂️ [Penetration Testing Toolkit](https://github.com/Rakib007007007/penetration-toolkit) | Automated pentesting scripts | [Demo](https://rakib007007007.github.io/penetration-toolkit) | Python, Bash |
-| 📈 [Security Incident Analyzer](https://github.com/Rakib007007007/security-analyzer) | Real-time security anomaly dashboard | [Demo](https://rakib007007007.github.io/security-analyzer) | Security Analytics |
+| 🧑‍🏫 **[E-Tutor Booking](https://github.com/Programming-Hero-Web-Course4/b11a11-client-side-rak9b)** | Language tutor booking platform with JWT authentication | [🌐 Live](https://tutor-booking-43ee8.web.app/) | React, Tailwind, Firebase, MongoDB, JWT |
+| 🍲 **[Food Khazana](https://github.com/Programming-Hero-Web-Course4/b7a10-chef-recipe-hunter-client-side-rakib)** | Interactive recipe-sharing application | [🌐 Live](https://food-khazana.web.app/) | React, Firebase, MongoDB, Express.js |
+| 🔐 **[Cybersecurity Framework](https://github.com/Rakib007007007/cybersecurity-framework)** | Cloud application security framework | [🌐 Demo](https://rakib007007007.github.io/cybersecurity-framework) | Security Architecture |
+| 🕵️‍♂️ **[Pentesting Toolkit](https://github.com/Rakib007007007/penetration-toolkit)** | Automated penetration testing scripts | [🌐 Demo](https://rakib007007007.github.io/penetration-toolkit) | Python, Bash |
+| 📈 **[Security Analyzer](https://github.com/Rakib007007007/security-analyzer)** | Real-time security anomaly dashboard | [🌐 Demo](https://rakib007007007.github.io/security-analyzer) | Security Analytics |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=rak9b" alt="Streak Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=rak9b&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rak9b&hide_border=false&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rak9b&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://nirzak-streak-stats.vercel.app?user=rak9b&theme=tokyonight" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rak9b&theme=react-dark" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rak9b&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
@@ -123,9 +144,9 @@
 </p>
 
 <p align="center">
-  🏆 Recognized by <strong>HackerOne</strong> for critical vulnerabilities<br>
-  🐛 Contributed to <strong>Bugcrowd</strong> with high-severity bugs<br>
-  🔍 Active participant in <strong>OpenBugBounty</strong>
+  🏆 <strong>HackerOne:</strong> Recognized for discovering critical vulnerabilities in multiple platforms<br>
+  🐛 <strong>Bugcrowd:</strong> Contributed by identifying and reporting high-severity bugs<br>
+  🔍 <strong>OpenBugBounty:</strong> Active participant helping secure websites worldwide
 </p>
 
 ---
@@ -150,12 +171,16 @@
   </a>
 </p>
 
+<p align="center">
+  <strong>📍 Location:</strong> Canada | <strong>💼 Available for:</strong> Full-time, Remote Opportunities
+</p>
+
 ---
 
 ## ☕ Support My Work
 
 <p align="center">
-  If you find my contributions valuable, consider supporting my cybersecurity journey!
+  If you find my contributions valuable and want to support my cybersecurity journey, consider buying me a coffee! Your support keeps me motivated to explore, learn, and share more. 🚀
 </p>
 
 <p align="center">
@@ -170,10 +195,17 @@
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
+---
+
 <p align="center">
-  <b>Thanks for visiting! ⭐ Star my repositories if you found them helpful!</b>
+  <b>⭐ Star my repositories if you found them helpful!</b><br>
+  <b>🤝 Let's build something awesome together!</b>
 </p>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/rak9b/count.svg" alt="Visitor Count" />
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile! 🚀</i>
 </p>
