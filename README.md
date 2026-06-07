@@ -1,171 +1,194 @@
-<h1 align="center">
-  Hi, I'm Md. Rakibul Islam 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-</h1>
+<div align="center">
+
+# Md. Rakibul Islam
+
+### AI & Full-Stack Engineer · DevSecOps Practitioner · Building Secure Systems at Scale
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E676&center=true&vCenter=true&width=600&lines=AI+%26+Full+Stack+Engineer;Building+Intelligent%2C+Scalable%2C+Secure+Systems;Next.js+%7C+TypeScript+%7C+Node.js+%7C+LLMs;DevSecOps+%7C+Cloud+%7C+Automation" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/md-rakibul-islam007/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mdrakibulislam7018@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://pp-seven-liard.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/rak9b"><img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Engineering%20Intelligence%20into%20Every%20Line%20of%20Code&fontSize=32&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%" />
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 🎯 Executive Summary
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=58A6FF&center=true&vCenter=true&width=700&lines=3%2B+Years+Building+Production-Grade+Systems;AI+%2B+Full-Stack+%2B+Security-First+Engineering;From+Concept+to+Scalable+Deployment" alt="Typing Animation" />
-</p>
+> **"Most software is built to simply function. I engineer systems that are intelligent, autonomous, and secure by design."**
 
-I'm a **Full-Stack & AI Engineer** with **3+ years of experience** architecting intelligent, scalable, and secure web systems. I operate at the intersection of **modern software architecture**, **AI automation**, and **proactive cybersecurity**—transforming complex business requirements into production-ready platforms that scale reliably.
+| Metric | Impact |
+| :--- | :--- |
+| 🧠 **Experience** | 3+ years building production-grade AI & web systems |
+| 🏢 **Current Role** | AI Automation & Full Stack Engineer @ **SimplifAI Inc.** (Canada) |
+| 🚀 **Projects Delivered** | 15+ production platforms across SaaS, AI, and mobility |
+| 🛡️ **Security Edge** | DevSecOps-first approach — OWASP Top 10 mitigated at architecture level |
+| 🌍 **Global Reach** | Remote engineering for clients across Canada, US, EU, and APAC |
 
-🔭 **Currently:** AI Automation & Full Stack Engineer at **SimplifAI Inc.** (Canada · Remote)  
-💼 **Focus:** Multi-Agent Conversational Platforms (MCP), LLM Integration, n8n Workflows, Serverless Architecture  
-🛡️ **Edge:** DevSecOps mindset — I build applications that are **secure by design** from day one  
-🎯 **Stack:** Next.js · TypeScript · Node.js · Prisma · PostgreSQL · MongoDB · GCP · Docker  
-🌱 **Learning:** Advanced RAG pipelines, Multi-Agent orchestration, Cloud-native patterns  
+---
 
-> *"Most software is built to simply work. I engineer systems that are intelligent, autonomous, and secure by design."*
+## 💡 What I Do
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
+I operate at the intersection of **three disciplines** that most engineers treat separately:
+
+```
+┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
+│  AI & Automation│    │  Full-Stack Dev │    │   DevSecOps     │
+│                 │    │                 │    │                 │
+│  • LLM/RAG      │    │  • Next.js 16   │    │  • OWASP Top 10 │
+│  • AI Agents    │    │  • TypeScript   │    │  • JWT/OAuth    │
+│  • MCP Systems  │    │  • Node.js      │    │  • Zod/Validation│
+│  • n8n Workflow │    │  • PostgreSQL   │    │  • CI/CD Security│
+└────────┬────────┘    └────────┬────────┘    └────────┬────────┘
+         │                      │                      │
+         └──────────────────────┼──────────────────────┘
+                                ▼
+                ┌───────────────────────────────┐
+                │  Secure, Scalable, Intelligent │
+                │      Production Systems        │
+                └───────────────────────────────┘
+```
 
 ---
 
 ## 🛠️ Technical Arsenal
 
-### 💻 Languages & Core
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,nodejs,html,css,bash" alt="languages" />
-</p>
+<details open>
+<summary><b>🎯 Core Stack (Daily Drivers)</b></summary>
 
-### ⚛️ Frontend & UI
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,figma,vite" alt="frontend" />
-</p>
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | TypeScript, JavaScript (ES6+), Python, SQL |
+| **Frontend** | Next.js 16, React 18, Redux Toolkit, Tailwind CSS, Framer Motion |
+| **Backend** | Node.js, Express.js, Prisma ORM, REST APIs, GraphQL |
+| **Databases** | PostgreSQL, MongoDB, Supabase, Redis |
+| **AI/ML** | LLMs (OpenAI, Gemini, Claude), RAG, LangChain, AI Agents, MCP |
+| **Automation** | n8n, Zapier, Custom Workflow Engines |
+</details>
 
-### 🚀 Backend & APIs
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,graphql,postman,docker" alt="backend" />
-</p>
+<details>
+<summary><b>☁️ Cloud & DevOps</b></summary>
 
-### 🗄️ Databases & Cloud
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,firebase,redis,gcp" alt="database" />
-</p>
+| Category | Technologies |
+| :--- | :--- |
+| **Cloud** | Google Cloud Platform (GCP), Vercel, Render, Supabase |
+| **Containerization** | Docker, Docker Compose, Kubernetes basics |
+| **CI/CD** | GitHub Actions, Vercel Deployments, Automated Testing |
+| **Monitoring** | Sentry, Winston, Vercel Analytics, UptimeRobot |
+</details>
 
-### 🤖 AI & Automation
-<p align="left">
-  <img src="https://img.shields.io/badge/LLMs-OpenAI%20%7C%20Gemini%20%7C%20Claude-black?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-LangChain%20%7C%20Vector_DB-purple?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agents-MCP%20%7C%20Multi--Agent-orange?style=for-the-badge&logo=robotframework&logoColor=white" />
-  <img src="https://img.shields.io/badge/Workflow-n8n%20%7C%20Zapier-blue?style=for-the-badge&logo=n8n&logoColor=white" />
-</p>
+<details>
+<summary><b>🛡️ Security & Quality</b></summary>
 
-### 🛡️ DevSecOps & Quality
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=githubactions,docker,kubernetes,linux,git" alt="devops" />
-  <img src="https://img.shields.io/badge/OWASP-Top_10-red?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security-DevSecOps-darkgreen?style=for-the-badge&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/Testing-Jest%20%7C%20Vitest%20%7C%20Playwright-blue?style=for-the-badge&logo=jest&logoColor=white" />
-</p>
+| Category | Technologies |
+| :--- | :--- |
+| **Auth** | JWT, OAuth 2.0, Firebase Auth, bcrypt, HttpOnly Cookies |
+| **Validation** | Zod, React Hook Form, Server-side Schema Validation |
+| **Security Tools** | Helmet.js, CORS, Rate Limiting, OWASP ZAP, Burp Suite |
+| **Testing** | Jest, Vitest, Playwright (E2E), Supertest |
+| **Standards** | OWASP Top 10, NIST CSF, PCI DSS, GDPR |
+</details>
+
+---
+
+## 🏆 Featured Work
+
+<div align="center">
+
+### [🌍 LocalGems — Tourism SaaS Platform](https://localgem-l-frontend-bx4r.vercel.app/)
+
+</div>
+
+**The Challenge:** Travelers couldn't find authentic local experiences; guides lacked a professional platform to monetize expertise.
+
+**The Solution:** A production-grade marketplace with AI chatbot, real-time conversations, Stripe payments, and role-based dashboards.
+
+| Tech | Architecture | Impact |
+| :--- | :--- | :--- |
+| Next.js 16 · TypeScript · Prisma · PostgreSQL | Multi-role RBAC · Serverless API · Stripe Integration | 100% TS coverage · WCAG 2.1 AA · Lighthouse 90+ |
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <a href="https://localgem-l-frontend-bx4r.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/rak9b/localgem_l_frontend"><img src="https://img.shields.io/badge/Source_Code-24292F?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🏆 Featured Projects
+<div align="center">
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h3 align="center">🌍 LocalGems</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js_16-000?style=for-the-badge&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-      </p>
-      <p align="center">
-        Production-grade Tourism SaaS marketplace with AI chatbot, real-time conversation, Stripe payments, and multi-role dashboards (Tourist/Guide/Admin). 100% TypeScript, WCAG 2.1 AA compliant.
-      </p>
-      <p align="center">
-        <a href="https://localgem-l-frontend-bx4r.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-        <a href="https://github.com/rak9b/localgem_l_frontend"><img src="https://img.shields.io/badge/Source_Code-24292F?style=for-the-badge&logo=github&logoColor=white" /></a>
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">🚗 RiderApp</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-      </p>
-      <p align="center">
-        Real-time urban mobility platform with AI chatbot, live driver tracking, multi-role dashboards (Rider/Driver/Admin), fare estimation, and admin fleet management. PWA-ready.
-      </p>
-      <p align="center">
-        <a href="https://rider-app-frontend.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-        <a href="https://github.com/rak9b/rider-app"><img src="https://img.shields.io/badge/Source_Code-24292F?style=for-the-badge&logo=github&logoColor=white" /></a>
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">🎓 Akademi</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-        <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
-      </p>
-      <p align="center">
-        Production-grade Scholarship Management System with RBAC (Applicant/Moderator/Admin), Stripe payment integration, document handling, and real-time application tracking.
-      </p>
-      <p align="center">
-        <a href="https://akademi-scholarship-management-syst-one.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-        <a href="https://github.com/rak9b/Akademi---Scholarship-Management-System-frontend-"><img src="https://img.shields.io/badge/Source_Code-24292F?style=for-the-badge&logo=github&logoColor=white" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
+### [🚗 RiderApp — Urban Mobility Platform](https://rider-app-frontend.vercel.app/)
+
+</div>
+
+**The Challenge:** Commuters needed transparent ride-hailing; drivers needed efficient earnings management.
+
+**The Solution:** Real-time mobility platform with AI chatbot, live tracking, multi-role dashboards, and SOS emergency system.
+
+| Tech | Architecture | Impact |
+| :--- | :--- | :--- |
+| React 18 · TypeScript · Redux · MongoDB | Real-time WebSocket · Live Maps · JWT Auth | PWA-ready · Modular MVC · Mobile-first |
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <a href="https://rider-app-frontend.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/rak9b/rider-app"><img src="https://img.shields.io/badge/Source_Code-24292F?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🛡️ Security-First Engineering
+<div align="center">
 
-As a developer with deep roots in **ethical hacking** and **vulnerability assessment**, I integrate security into every layer of the SDLC—not as an afterthought, but as a **core design principle**.
+### [🎓 Akademi — Scholarship Management System](https://akademi-scholarship-management-syst-one.vercel.app/)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/OWASP_Top_10-Mitigation-red?style=flat-square&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevSecOps-Integrated-darkgreen?style=flat-square&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT_Auth-Secure--by--Design-blue?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zod-Schema_Validation-purple?style=flat-square&logo=zod&logoColor=white" />
-  <img src="https://img.shields.io/badge/Helmet.js-HTTP_Headers-orange?style=flat-square&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rate_Limiting-DDoS_Protection-yellow?style=flat-square&logo=cloudflare&logoColor=white" />
-</p>
+</div>
 
-**My Security Workflow:**
-- 🔍 **Pre-Development:** Threat modeling & secure architecture design
-- 🛠️ **During Development:** Zod validation, parameterized queries, RBAC
-- 🧪 **Pre-Deployment:** Manual + automated vulnerability scanning
-- 📊 **Post-Deployment:** Monitoring, logging, incident response readiness
+**The Challenge:** Students faced fragmented applications; institutions lacked efficient review workflows.
+
+**The Solution:** End-to-end scholarship platform with RBAC, Stripe payments, document handling, and real-time tracking.
+
+| Tech | Architecture | Impact |
+| :--- | :--- | :--- |
+| React · Vite · Node.js · Firebase · Stripe | Multi-role Portals · Payment Gateway · Document Storage | Production-ready · Secure Auth · Responsive UI |
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <a href="https://akademi-scholarship-management-syst-one.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/rak9b/Akademi---Scholarship-Management-System-frontend-"><img src="https://img.shields.io/badge/Source_Code-24292F?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
+---
+
+## 🛡️ The DevSecOps Edge
+
+While most developers treat security as a post-deployment checklist, I **bake it into the architecture from day one**.
+
+```
+┌─────────────────────────────────────────────────────┐
+│          My Security-First Development Flow         │
+├─────────────────────────────────────────────────────┤
+│                                                     │
+│  1️⃣  THREAT MODELING     →  Identify risks early    │
+│  2️⃣  SECURE DESIGN       →  OWASP-aligned architecture│
+│  3️⃣  INPUT VALIDATION    →  Zod schemas everywhere  │
+│  4️⃣  AUTH HARDENING      →  JWT + HttpOnly + RBAC   │
+│  5️⃣  RATE LIMITING       →  DDoS protection         │
+│  6️⃣  SECURITY HEADERS    →  Helmet.js configuration │
+│  7️⃣  AUTOMATED SCANNING  →  CI/CD vulnerability checks│
+│  8️⃣  MONITORING          →  Sentry + structured logs│
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+**Result:** Applications that are **secure by default**, not secure by accident.
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rak9b&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rak9b&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="180em" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rak9b&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180em" />
 </div>
 
@@ -179,98 +202,63 @@ As a developer with deep roots in **ethical hacking** and **vulnerability assess
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rak9b&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rak9b&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF" width="100%" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Recognition
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rak9b&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=rak9b&theme=tokyonight&no-frame=true&margin-w=4&column=7" alt="Trophies" />
 </p>
 
 ---
 
-## 📜 Certifications & Credentials
+## 📜 Credentials
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Security_Engineer_Certificate-0D3B66?style=for-the-badge&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/BSc_Computer_Science-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security_Engineer_Certified-0D3B66?style=for-the-badge&logo=security&logoColor=white" />
   <img src="https://img.shields.io/badge/DevSecOps_Practitioner-004C97?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
 ---
 
-## 🌐 Let's Connect
+## 🤝 Let's Build Something Great
+
+<div align="center">
+
+**I'm currently open to:**
+
+✅ **Senior AI & Full-Stack Engineering roles** (Remote, Global)  
+✅ **Technical consulting** on AI automation and secure architecture  
+✅ **Collaborations** on open-source AI/DevSecOps projects  
+✅ **Speaking opportunities** on DevSecOps and modern web architecture  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/md-rakibul-islam007/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/rak9b" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:mdrakibulislam7018@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://pp-seven-liard.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://twitter.com/fagun018" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://t.me/mbfagun" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
+  <a href="mailto:mdrakibulislam7018@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/md-rakibul-islam007/"><img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://pp-seven-liard.vercel.app/"><img src="https://img.shields.io/badge/🌐_View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
+</div>
 
 ---
 
-## ☕ Support My Work
+<div align="center">
 
-<p align="center">
-  If you find my open-source work valuable, consider supporting my journey! Your coffee fuels more secure, scalable code. 🚀
+<p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rak9b.rak9b" alt="Visitors" />
+  <img src="https://img.shields.io/github/followers/rak9b?label=Follow&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/rak9b?affiliations=OWNER&style=social" alt="Stars" />
 </p>
 
-<p align="center">
-  <a href="https://buymeacoffee.com/rak9b">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-</p>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
 
----
+<sub><em>Built with precision · Engineered for impact · Secured by design</em></sub>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rak9b.rak9b" alt="Visitor's Count" />
-  <img src="https://img.shields.io/github/followers/rak9b?label=Follow&style=social" alt="GitHub Followers" />
-</p>
+**© 2026 Md. Rakibul Islam · All rights reserved**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
-</p>
-
-<p align="center">
-  <strong>⭐ Star my repositories if you find them helpful!</strong>
-</p>
-
-<p align="center">
-  <em>Built with ❤️ and ☕ by Md. Rakibul Islam · © 2026</em>
-</p>
+</div>
