@@ -1,217 +1,276 @@
-# <h1 align="center">Hi, I'm Md. Rakibul Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">
+  Hi, I'm Md. Rakibul Islam 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6F61&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+awesome+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E676&center=true&vCenter=true&width=600&lines=AI+%26+Full+Stack+Engineer;Building+Intelligent%2C+Scalable%2C+Secure+Systems;Next.js+%7C+TypeScript+%7C+Node.js+%7C+LLMs;DevSecOps+%7C+Cloud+%7C+Automation" alt="Typing SVG" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/a7jCRzDW5TH7vsIbYD/giphy.gif?cid=ecf05e47lmn4ypxutoj5qpv46r05chsgsjsmz3agvcouhb0q&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Profile Banner" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
 ---
 
-## 🔥 About Me
+## 🚀 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F7B93E&center=true&vCenter=true&width=600&lines=Software+Engineer+in+Test;Full-Stack+Web+Developer;Penetration+Tester;Security+Engineer;Bug+Bounty+Hunter;Certified+Ethical+Hacker;" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=58A6FF&center=true&vCenter=true&width=700&lines=3%2B+Years+Building+Production-Grade+Systems;AI+%2B+Full-Stack+%2B+Security-First+Engineering;From+Concept+to+Scalable+Deployment" alt="Typing Animation" />
 </p>
+
+I'm a **Full-Stack & AI Engineer** with **3+ years of experience** architecting intelligent, scalable, and secure web systems. I operate at the intersection of **modern software architecture**, **AI automation**, and **proactive cybersecurity**—transforming complex business requirements into production-ready platforms that scale reliably.
+
+🔭 **Currently:** AI Automation & Full Stack Engineer at **SimplifAI Inc.** (Canada · Remote)  
+💼 **Focus:** Multi-Agent Conversational Platforms (MCP), LLM Integration, n8n Workflows, Serverless Architecture  
+🛡️ **Edge:** DevSecOps mindset — I build applications that are **secure by design** from day one  
+🎯 **Stack:** Next.js · TypeScript · Node.js · Prisma · PostgreSQL · MongoDB · GCP · Docker  
+🌱 **Learning:** Advanced RAG pipelines, Multi-Agent orchestration, Cloud-native patterns  
+
+> *"Most software is built to simply work. I engineer systems that are intelligent, autonomous, and secure by design."*
 
 <p align="center">
-  I am a passionate <strong>Software Engineer in Test</strong> with a strong focus on software quality through both automation and manual testing. As a <strong>Certified Ethical Hacker</strong>, I specialize in identifying and mitigating security vulnerabilities. Additionally, I am an active <strong>Bug Bounty Hunter</strong>, contributing to the security of various platforms by discovering and reporting vulnerabilities.
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ---
 
-## 🛠 Skills & Tools
+## 🛠️ Technical Arsenal
 
-| **Languages** | **Frontend** | **Backend** | **Database** |
-|--------------|-------------|------------|-------------|
-| <img src="https://skillicons.dev/icons?i=python,javascript,c,java,bash,powershell" alt="languages" /> | <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react" alt="frontend" /> | <img src="https://skillicons.dev/icons?i=django,nodejs,express,docker" alt="backend" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,firebase" alt="database" /> |
-
-| **Tools** |
-|-----------|
-| <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,netlify" alt="tools" /> |
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
----
-
-## 🛡️ Security Expertise
-
-### SOC Analyst
+### 💻 Languages & Core
 <p align="left">
-  <img src="https://img.shields.io/badge/-Splunk-orange?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Snort-purple?style=for-the-badge&logo=snort&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Suricata-blue?style=for-the-badge&logo=suricata&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ElasticSearch-darkgreen?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,nodejs,html,css,bash" alt="languages" />
 </p>
 
-### Penetration Tester
+### ⚛️ Frontend & UI
 <p align="left">
-  <img src="https://img.shields.io/badge/-Kali_Linux-blue?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Metasploit-darkgreen?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nmap-lightblue?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Burp_Suite-purple?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Wireshark-green?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,figma,vite" alt="frontend" />
 </p>
 
-### Security Engineer
+### 🚀 Backend & APIs
 <p align="left">
-  <img src="https://img.shields.io/badge/-OWASP_ZAP-yellow?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Shodan-lightblue?style=for-the-badge&logo=shodan&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,graphql,postman,docker" alt="backend" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
----
-
-## 🔹 Featured Projects
-
-| Project | Description | Live Link | Tech Stack |
-|---------|-------------|-----------|------------|
-| 🧑‍🏫 [E-Tutor Booking](https://github.com/Programming-Hero-Web-Course4/b11a11-client-side-rak9b) | Language tutor booking platform | [🌐 Live](https://tutor-booking-43ee8.web.app/) | React, Firebase, MongoDB |
-| 🍲 [Food Khazana](https://github.com/Programming-Hero-Web-Course4/b7a10-chef-recipe-hunter-client-side-rakib) | Interactive recipe-sharing app | [🌐 Live](https://food-khazana.web.app/) | React, Firebase, Express |
-| 🔐 [Cybersecurity Framework](https://github.com/Rakib007007007/cybersecurity-framework) | Cloud app security framework | [🌐 Demo](https://rakib007007007.github.io/cybersecurity-framework) | Security Architecture |
-| 🕵️‍♂️ [Pentesting Toolkit](https://github.com/Rakib007007007/penetration-toolkit) | Automated pentesting scripts | [🌐 Demo](https://rakib007007007.github.io/penetration-toolkit) | Python, Bash |
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
----
-
-## 📜 Certifications
-
+### 🗄️ Databases & Cloud
 <p align="left">
-  <img src="https://img.shields.io/badge/Certified%20Ethical%20Hacker-FF6F61?style=for-the-badge&logo=ethicalhacking&logoColor=white" />
-  <img src="https://img.shields.io/badge/Certified%20Web%20Application%20Pentester-0D3B66?style=for-the-badge&logo=appveyor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Certified%20Security%20Engineer-5C6BC0?style=for-the-badge&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevSecOps%20Certified-004C97?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/SOC%20Analyst%20Certified-1A3E6D?style=for-the-badge&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/Red%20Teaming%20Certified-CC0000?style=for-the-badge&logo=fire&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,firebase,redis,gcp" alt="database" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+### 🤖 AI & Automation
+<p align="left">
+  <img src="https://img.shields.io/badge/LLMs-OpenAI%20%7C%20Gemini%20%7C%20Claude-black?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-LangChain%20%7C%20Vector_DB-purple?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agents-MCP%20%7C%20Multi--Agent-orange?style=for-the-badge&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/Workflow-n8n%20%7C%20Zapier-blue?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
 
----
-
-## 🐛 Bug Bounty Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HackerOne-000000?style=for-the-badge&logo=hackerone&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bugcrowd-000000?style=for-the-badge&logo=bugcrowd&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenBugBounty-000000?style=for-the-badge&logo=openbugbounty&logoColor=white" />
+### 🛡️ DevSecOps & Quality
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=githubactions,docker,kubernetes,linux,git" alt="devops" />
+  <img src="https://img.shields.io/badge/OWASP-Top_10-red?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security-DevSecOps-darkgreen?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Testing-Jest%20%7C%20Vitest%20%7C%20Playwright-blue?style=for-the-badge&logo=jest&logoColor=white" />
 </p>
 
 <p align="center">
-  🏆 Recognized by <strong>HackerOne</strong> for critical vulnerabilities<br>
-  🐛 Contributed to <strong>Bugcrowd</strong> with high-severity bugs<br>
-  🔍 Active participant in <strong>OpenBugBounty</strong>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ---
 
-## <h2 align="center">⚡ GitHub Activity & Contributions</h2>
+## 🏆 Featured Projects
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3 align="center">🌍 LocalGems</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js_16-000?style=for-the-badge&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+      </p>
+      <p align="center">
+        Production-grade Tourism SaaS marketplace with AI chatbot, real-time conversation, Stripe payments, and multi-role dashboards (Tourist/Guide/Admin). 100% TypeScript, WCAG 2.1 AA compliant.
+      </p>
+      <p align="center">
+        <a href="https://localgem-l-frontend-bx4r.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+        <a href="https://github.com/rak9b/localgem_l_frontend"><img src="https://img.shields.io/badge/Source_Code-24292F?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">🚗 RiderApp</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+      </p>
+      <p align="center">
+        Real-time urban mobility platform with AI chatbot, live driver tracking, multi-role dashboards (Rider/Driver/Admin), fare estimation, and admin fleet management. PWA-ready.
+      </p>
+      <p align="center">
+        <a href="https://rider-app-frontend.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+        <a href="https://github.com/rak9b/rider-app"><img src="https://img.shields.io/badge/Source_Code-24292F?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">🎓 Akademi</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
+      </p>
+      <p align="center">
+        Production-grade Scholarship Management System with RBAC (Applicant/Moderator/Admin), Stripe payment integration, document handling, and real-time application tracking.
+      </p>
+      <p align="center">
+        <a href="https://akademi-scholarship-management-syst-one.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+        <a href="https://github.com/rak9b/Akademi---Scholarship-Management-System-frontend-"><img src="https://img.shields.io/badge/Source_Code-24292F?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+---
+
+## 🛡️ Security-First Engineering
+
+As a developer with deep roots in **ethical hacking** and **vulnerability assessment**, I integrate security into every layer of the SDLC—not as an afterthought, but as a **core design principle**.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/OWASP_Top_10-Mitigation-red?style=flat-square&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevSecOps-Integrated-darkgreen?style=flat-square&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT_Auth-Secure--by--Design-blue?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-Schema_Validation-purple?style=flat-square&logo=zod&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helmet.js-HTTP_Headers-orange?style=flat-square&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rate_Limiting-DDoS_Protection-yellow?style=flat-square&logo=cloudflare&logoColor=white" />
+</p>
+
+**My Security Workflow:**
+- 🔍 **Pre-Development:** Threat modeling & secure architecture design
+- 🛠️ **During Development:** Zod validation, parameterized queries, RBAC
+- 🧪 **Pre-Deployment:** Manual + automated vulnerability scanning
+- 📊 **Post-Deployment:** Monitoring, logging, incident response readiness
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/rak9b">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rak9b&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rak9b&theme=2077&utcOffset=6" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rak9b&theme=2077" height="180em" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=rak9b&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rak9b&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180em" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
-<h2 align="center">⚡ Activity Graph:</h2>
-
-<p align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=rak9b&theme=react-dark" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
----
-
-## <h3 align="left">🔥 My Stats :</h3>
+<br>
 
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rak9b&theme=dark" height="163em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rak9b&theme=dark" height="163em" /> 
-  <br>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rak9b&theme=dark" height="160em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rak9b&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rak9b&theme=tokyonight&utcOffset=6" height="180em" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rak9b&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rak9b&theme=catppuccin_mocha&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rak9b&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
 ---
 
-## <h2 align="center">🌐 Connect with Me</h2>
+## 📜 Certifications & Credentials
 
 <p align="center">
-  <a href="https://twitter.com/fagun018" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+  <img src="https://img.shields.io/badge/Security_Engineer_Certificate-0D3B66?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/BSc_Computer_Science-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevSecOps_Practitioner-004C97?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
   <a href="https://www.linkedin.com/in/md-rakibul-islam007/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/fagun018" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://github.com/rak9b" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:mdrakibulislam7018@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://pp-seven-liard.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://twitter.com/fagun018" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://t.me/mbfagun" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="mailto:fagun018@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" />
-  </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
 ---
 
 ## ☕ Support My Work
 
 <p align="center">
-  If you find my contributions valuable and want to support my cybersecurity journey, consider buying me a coffee! 🚀
+  If you find my open-source work valuable, consider supporting my journey! Your coffee fuels more secure, scalable code. 🚀
 </p>
 
 <p align="center">
   <a href="https://buymeacoffee.com/rak9b">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rak9b.visitor-badge" alt="Rakib007:: Visitor's Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rak9b.rak9b" alt="Visitor's Count" />
+  <img src="https://img.shields.io/github/followers/rak9b?label=Follow&style=social" alt="GitHub Followers" />
 </p>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
+</p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+<p align="center">
+  <strong>⭐ Star my repositories if you find them helpful!</strong>
+</p>
 
----
-
-**⭐ Star my repositories if you find them helpful!**
+<p align="center">
+  <em>Built with ❤️ and ☕ by Md. Rakibul Islam · © 2026</em>
+</p>
