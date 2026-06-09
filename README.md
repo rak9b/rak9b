@@ -532,7 +532,7 @@ While most developers treat security as a post-deployment checklist, I **bake it
 
 I'm currently open to:
 
-- **Senior AI & Full-Stack Engineering roles** (Remote, Global)
+- ** AI & Full-Stack Engineering roles** (Remote, Global)
 - **Technical consulting** on AI automation and secure architecture
 - **Collaborations** on open-source AI/DevSecOps projects
 - **Speaking opportunities** on modern web architecture and DevSecOps
